@@ -1,5 +1,7 @@
 # VRC-MultiOSC
 
+*Notice: as I nolonger use the VRC software/platform no further update will be provided to this content*
+
 The VRC OSC implimentaion can support many apps sending data in (via port 9000), but only allows for one binding (port 9001) for outboud info.  
 
 ## Solution - use an OSC router
